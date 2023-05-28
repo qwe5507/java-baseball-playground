@@ -1,3 +1,5 @@
+package stringcalc;
+
 import java.util.Collections;
 import java.util.Map;
 import java.util.function.BiFunction;

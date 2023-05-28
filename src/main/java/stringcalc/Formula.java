@@ -1,3 +1,5 @@
+package stringcalc;
+
 public class Formula {
     private static final String FORMULA_DELIMITER = " ";
     private final String[] formula;

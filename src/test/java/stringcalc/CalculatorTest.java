@@ -1,5 +1,10 @@
+package stringcalc;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import stringcalc.Formula;
+import stringcalc.StringCalc;
+
 import static org.assertj.core.api.Assertions.*;
 
 public class CalculatorTest {
